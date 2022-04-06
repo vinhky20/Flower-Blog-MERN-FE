@@ -62,8 +62,6 @@ function TopBar() {
 
                     )
                 }
-
-                <i className="searchIcon fas fa-search"></i>
             </div>
 
         </div >

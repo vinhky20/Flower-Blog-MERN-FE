@@ -24,6 +24,8 @@
 }
 
 .registerInput {
+    border-radius: 5px;
+
     padding: 10px;
     background-color: white;
     border: none;
